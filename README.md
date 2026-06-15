@@ -2,8 +2,6 @@
 
 This project contains a complete authentication system using Node.js, Express, and MongoDB. It includes features like sign up, sign in, sign out, password reset, and social authentication (Google). The project is structured to be scalable with separate components for models, controllers, and routes.
 
-## Live Site
-[Click here](https://nodejs-authentication-system-l2pu.onrender.com/user/signin) to visit the live site.
 
 ## Features Implemented
 - **Sign-up with Email**: Create an account using your email and password.
@@ -99,10 +97,3 @@ Follow these steps to run the project locally:
 - dotenv
 - nodemailer
 
-## Credits
-
-This project was created by [Ravikant Singh](https://github.com/ravikantsingh12). Contributions via issues or pull requests are welcome!
-
-## Follow me on
-
-- [LinkedIn](https://www.linkedin.com/in/ravikant-singh-327a98241)
