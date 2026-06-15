@@ -99,10 +99,3 @@ Follow these steps to run the project locally:
 - dotenv
 - nodemailer
 
-## Credits
-
-This project was created by [Ravikant Singh](https://github.com/ravikantsingh12). Contributions via issues or pull requests are welcome!
-
-## Follow me on
-
-- [LinkedIn](https://www.linkedin.com/in/ravikant-singh-327a98241)
